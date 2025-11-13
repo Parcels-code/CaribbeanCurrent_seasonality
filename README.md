@@ -25,7 +25,7 @@ The simulated particles represent surface geostrophic transport derived from GLO
 
 Name of the Parcels simualtion is: **GRENAVENE** (based on release location of the particles at Grenada-Venezuela cross-section).
 
-### Hydrodynamic input: GLORYS model (CMEMS)
+**Hydrodynamic input: GLORYS model (CMEMS)**
 
 For this project the hydrodynamic input used is the 32 years (1993–2024) of geostrophic flow patterns derived from sea surface height data with the EU Copernicus Marine Service Information product reanalysis GLORYS12V1 (Lellouche et al., 2021). 
 
@@ -33,7 +33,7 @@ Lellouche, J.-M., Greiner, E., Bourdallé-Badie, R., Garric, G., Melet, A., Dré
 
 Geostrophic flow is calculated from the sea surface height data output (SSH) using central differences approach. 
 
-### Simulations and analysis:
+**Simulations and analysis:**
 
 In folder [**Lagrangian_analysis/parcels_run**](./Lagrangian_analysis/parcels_run/): 
 - `0_download_GLORYS_SSH.py`: script to download GLORYS dataset
