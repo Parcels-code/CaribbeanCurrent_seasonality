@@ -1,0 +1,12 @@
+# Data files
+*.nc
+*.nc
+*.zarr
+*.pkl
+*.png
+
+# Logs
+*.log
+
+# System files
+.DS_Store
